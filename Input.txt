@@ -1,0 +1,14 @@
+X	X	X	X	W
+X	N	P	X	W
+X	N	X	X	W
+X	N	X	X	W
+X	N	N	X	W
+X	N	N	X	W
+X	N	N	X	W
+X	O	N	X	W
+X	N	X	X	X
+X	N	N	N	X
+X	N	N	N	X
+X	N	N	N	X
+X	X	X	X	X
+W	W	W	W	W
